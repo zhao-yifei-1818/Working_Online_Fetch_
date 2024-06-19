@@ -1,0 +1,340 @@
+--------0------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $127,745  
+ Dealer:  Mercedes-Benz of West Chester4.5(1,815 reviews)       mi. from 97331      
+----------2------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $119,585  
+ Dealer:  Mercedes-Benz of Portland4.4(1,604 reviews)      72 mi. from 97331      
+--------------6------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $111,135  
+ Dealer:  Mercedes-Benz of Modesto4.4(142 reviews)      490 mi. from 97331      
+-----------------9------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $126,975  
+ Dealer:  Mercedes-Benz of FresnoNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (466 reviews)      564 mi. from 97331      
+------------------10------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $122,485  
+ Dealer:  Mercedes-Benz of FresnoNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (466 reviews)      564 mi. from 97331      
+---------------------13------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $127,425  
+ Dealer:  Mercedes-Benz of FresnoNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (466 reviews)      564 mi. from 97331      
+-----------------------15------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $120,375  
+ Dealer:  Mercedes-Benz of BakersfieldNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (539 reviews)      678 mi. from 97331      
+----------------------------20------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $115,825  
+ Dealer:  Mercedes-Benz of Calabasas4.8(920 reviews)      761 mi. from 97331      
+-----------------------------21------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,790  
+ Dealer:  W.I. Simonson Inc.4.7(830 reviews)      772 mi. from 97331      
+----------------------------------26------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $118,625  
+ Dealer:  Mercedes-Benz of CarlsbadNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (418 reviews)      853 mi. from 97331      
+-----------------------------------27------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,215  
+ Dealer:  Mercedes-Benz of CarlsbadNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (418 reviews)      853 mi. from 97331      
+------------------------------------28------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $131,325  
+ Dealer:  Mercedes-Benz of CarlsbadNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (418 reviews)      853 mi. from 97331      
+----------------------------------------32------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $126,695  
+ Dealer:  Mercedes-Benz of Denver4.3(406 reviews)      996 mi. from 97331      
+-----------------------------------------33------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $138,943  
+ Dealer:  Mercedes-Benz of Denver4.3(406 reviews)      996 mi. from 97331      
+--------------------------------------------36------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $127,895  
+ Dealer:  Mercedes-Benz of Littleton4.6(1,092 reviews)      998 mi. from 97331      
+---------------------------------------------37------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $136,345  
+ Dealer:  Mercedes-Benz of Littleton4.6(1,092 reviews)      998 mi. from 97331      
+-------------------------------------------------41------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $122,300  
+ Dealer:  Foundation Mercedes-Benz of Wichita FallsNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (21 reviews)      1,510 mi. from 97331      
+----------------------------------------------------44------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,990  
+ Dealer:  Motor Werks - Barrington Auto Mall4.9(3,801 reviews)      1,761 mi. from 97331      
+----------------------------------------------------------50------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,395  
+ Dealer:  Mercedes-Benz of Naperville4.7(762 reviews)      1,766 mi. from 97331      
+------------------------------------------------------------52------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $127,290  
+ Dealer:  Knauz Auto Park4.8(2,011 reviews)      1,771 mi. from 97331      
+-------------------------------------------------------------53------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $124,535  
+ Dealer:  Mercedes-Benz of West Houston4.8(70 reviews)      1,819 mi. from 97331      
+--------------------------------------------------------------54------
+ Make:  2023 Mercedes-Benz S-Class S 500  
+ Price:  $124,975  
+ Dealer:  Mercedes-Benz of MemphisNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (17 reviews)      1,873 mi. from 97331      
+------------------------------------------------------------------58------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $124,880  
+ Dealer:  RBM of Atlanta4.1(1,018 reviews)      2,183 mi. from 97331      
+-------------------------------------------------------------------59------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $131,725  
+ Dealer:  Mercedes-Benz of Buckhead4.5(928 reviews)      2,188 mi. from 97331      
+----------------------------------------------------------------------62------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $125,575  
+ Dealer:  Mercedes-Benz of Chantilly4.6(926 reviews)      2,364 mi. from 97331      
+------------------------------------------------------------------------64------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $112,690  
+ Dealer:  Mercedes-Benz of Catonsville4.1(449 reviews)      2,386 mi. from 97331      
+-------------------------------------------------------------------------65------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $114,614  
+ Dealer:  Mercedes-Benz of Catonsville4.1(449 reviews)      2,386 mi. from 97331      
+--------------------------------------------------------------------------66------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $115,190  
+ Dealer:  Mercedes-Benz of Catonsville4.1(449 reviews)      2,386 mi. from 97331      
+---------------------------------------------------------------------------67------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $114,672  
+ Dealer:  Mercedes-Benz of Catonsville4.1(449 reviews)      2,386 mi. from 97331      
+----------------------------------------------------------------------------68------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $117,624  
+ Dealer:  Mercedes-Benz of Catonsville4.1(449 reviews)      2,386 mi. from 97331      
+-----------------------------------------------------------------------------69------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $112,690  
+ Dealer:  Mercedes-Benz of Catonsville4.1(449 reviews)      2,386 mi. from 97331      
+------------------------------------------------------------------------------70------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $130,375  
+ Dealer:  Mercedes-Benz of Hunt Valley4.6(570 reviews)      2,388 mi. from 97331      
+-------------------------------------------------------------------------------71------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $126,140  
+ Dealer:  Mercedes-Benz of Hunt Valley4.6(570 reviews)      2,388 mi. from 97331      
+---------------------------------------------------------------------------------73------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $126,140  
+ Dealer:  Mercedes-Benz of Hunt Valley4.6(570 reviews)      2,388 mi. from 97331      
+-----------------------------------------------------------------------------------75------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $116,185  
+ Dealer:  Mercedes-Benz of West Chester4.5(1,815 reviews)      2,427 mi. from 97331      
+---------------------------------------------------------------------------------------79------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $122,375  
+ Dealer:  Mercedes-Benz of Morristown4.8(568 reviews)      2,456 mi. from 97331      
+----------------------------------------------------------------------------------------------86------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $114,835  
+ Dealer:  Mercedes-Benz of Rockville Centre4.8(1,351 reviews)      2,501 mi. from 97331      
+-----------------------------------------------------------------------------------------------87------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $119,740  
+ Dealer:  Crown Eurocars4.9(4,017 reviews)      2,507 mi. from 97331      
+------------------------------------------------------------------------------------------------88------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,890  
+ Dealer:  Crown Eurocars4.9(4,017 reviews)      2,507 mi. from 97331      
+-------------------------------------------------------------------------------------------------89------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,490  
+ Dealer:  Crown Eurocars4.9(4,017 reviews)      2,507 mi. from 97331      
+---------------------------------------------------------------------------------------------------91------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $119,990  
+ Dealer:  Mercedes-Benz of Naples4.7(1,499 reviews)      2,625 mi. from 97331      
+----------------------------------------------------------------------------------------------------92------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $119,990  
+ Dealer:  Mercedes-Benz of Naples4.7(1,499 reviews)      2,625 mi. from 97331      
+-----------------------------------------------------------------------------------------------------93------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,440  
+ Dealer:  Mercedes-Benz of Delray4.5(1,511 reviews)      2,693 mi. from 97331      
+--------------------------------------------------------------------------------------------------------96------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $117,140  
+ Dealer:  Mercedes-Benz of Pompano4.4(734 reviews)      2,699 mi. from 97331      
+------------------------------------------------------------------------------------------------------------100------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,490  
+ Dealer:  Mercedes-Benz of Miami4.4(1,209 reviews)      2,709 mi. from 97331      
+--------0------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $127,745  
+ Dealer:  Mercedes-Benz of West Chester4.5(1,815 reviews)       mi. from 97331      
+-----------3------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $133,650  
+ Dealer:  Mercedes-Benz of Rocklin4.5(2,995 reviews)      413 mi. from 97331      
+-------------5------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $133,650  
+ Dealer:  Mercedes-Benz of Sacramento4.2(2,814 reviews)      424 mi. from 97331      
+-------------------11------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $129,775  
+ Dealer:  Autobahn Motors4.8(966 reviews)      489 mi. from 97331      
+----------------------14------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,135  
+ Dealer:  Mercedes-Benz of BakersfieldNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (539 reviews)      678 mi. from 97331      
+-----------------------15------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $131,381  
+ Dealer:  Mercedes-Benz of Calabasas4.8(920 reviews)      761 mi. from 97331      
+----------------------------20------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $143,485  
+ Dealer:  Mercedes-Benz of Arcadia4.7(1,130 reviews)      773 mi. from 97331      
+-------------------------------23------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,585  
+ Dealer:  Mercedes-Benz of Laguna Niguel4.7(1,735 reviews)      819 mi. from 97331      
+--------------------------------24------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,215  
+ Dealer:  Mercedes-Benz of CarlsbadNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (418 reviews)      853 mi. from 97331      
+---------------------------------25------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,135  
+ Dealer:  Mercedes-Benz of Escondido2.4(164 reviews)      859 mi. from 97331      
+-----------------------------------27------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $130,625  
+ Dealer:  Mercedes-Benz of Escondido2.4(164 reviews)      859 mi. from 97331      
+---------------------------------------31------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,040  
+ Dealer:  Mercedes-Benz of Tucson4.5(336 reviews)      1,082 mi. from 97331      
+----------------------------------------32------
+ Make:  2022 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $118,998  
+ Dealer:  Mercedes-Benz of WichitaNot rated    Dealerships need five reviews in the past 24 months before we can display a rating.  (109 reviews)      1,430 mi. from 97331      
+------------------------------------------34------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $124,495  
+ Dealer:  Mercedes-Benz Of Oklahoma City4.8(903 reviews)      1,489 mi. from 97331      
+---------------------------------------------37------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $119,185  
+ Dealer:  Mercedes-Benz of Plano4.7(1,816 reviews)      1,621 mi. from 97331      
+----------------------------------------------38------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $124,985  
+ Dealer:  Mercedes-Benz of Plano4.7(1,816 reviews)      1,621 mi. from 97331      
+-----------------------------------------------39------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $120,835  
+ Dealer:  Mercedes-Benz of Plano4.7(1,816 reviews)      1,621 mi. from 97331      
+---------------------------------------------------------49------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $131,035  
+ Dealer:  RBM of Atlanta4.1(1,018 reviews)      2,183 mi. from 97331      
+----------------------------------------------------------50------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $129,225  
+ Dealer:  RBM of Atlanta4.1(1,018 reviews)      2,183 mi. from 97331      
+-----------------------------------------------------------51------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $133,035  
+ Dealer:  RBM of Atlanta4.1(1,018 reviews)      2,183 mi. from 97331      
+------------------------------------------------------------52------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $132,835  
+ Dealer:  Mercedes-Benz of Atlanta Northeast4.8(1,967 reviews)      2,197 mi. from 97331      
+-------------------------------------------------------------53------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $140,450  
+ Dealer:  Mercedes-Benz of Atlanta Northeast4.8(1,967 reviews)      2,197 mi. from 97331      
+------------------------------------------------------------------58------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $124,410  
+ Dealer:  Mercedes-Benz of Flemington4.2(28 reviews)      2,445 mi. from 97331      
+-----------------------------------------------------------------------63------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $130,690  
+ Dealer:  Mercedes-Benz of Princeton4.9(3,952 reviews)      2,459 mi. from 97331      
+------------------------------------------------------------------------64------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $139,745  
+ Dealer:  Mercedes-Benz of Princeton4.9(3,952 reviews)      2,459 mi. from 97331      
+-------------------------------------------------------------------------65------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $126,870  
+ Dealer:  Mercedes-Benz of Princeton4.9(3,952 reviews)      2,459 mi. from 97331      
+--------------------------------------------------------------------------66------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $123,995  
+ Dealer:  Mercedes-Benz of Princeton4.9(3,952 reviews)      2,459 mi. from 97331      
+---------------------------------------------------------------------------67------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $118,260  
+ Dealer:  Mercedes-Benz of Princeton4.9(3,952 reviews)      2,459 mi. from 97331      
+----------------------------------------------------------------------------------74------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $131,225  
+ Dealer:  Ray Catena Mercedes Benz Freehold4.6(751 reviews)      2,479 mi. from 97331      
+-------------------------------------------------------------------------------------77------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $115,550  
+ Dealer:  Silver Star Motors4.5(720 reviews)      2,484 mi. from 97331      
+--------------------------------------------------------------------------------------78------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $115,550  
+ Dealer:  Silver Star Motors4.5(720 reviews)      2,484 mi. from 97331      
+---------------------------------------------------------------------------------------79------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,620  
+ Dealer:  Silver Star Motors4.5(720 reviews)      2,484 mi. from 97331      
+----------------------------------------------------------------------------------------80------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $116,340  
+ Dealer:  Silver Star Motors4.5(720 reviews)      2,484 mi. from 97331      
+------------------------------------------------------------------------------------------82------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,620  
+ Dealer:  Silver Star Motors4.5(720 reviews)      2,484 mi. from 97331      
+-------------------------------------------------------------------------------------------83------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $121,620  
+ Dealer:  Silver Star Motors4.5(720 reviews)      2,484 mi. from 97331      
+------------------------------------------------------------------------------------------------88------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $131,225  
+ Dealer:  Rallye Motors4.8(4,071 reviews)      2,496 mi. from 97331      
+------------------------------------------------------------------------------------------------------94------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $125,785  
+ Dealer:  Mercedes-Benz of Clearwater4.6(426 reviews)      2,501 mi. from 97331      
+--------------------------------------------------------------------------------------------------------96------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $114,640  
+ Dealer:  Mercedes-Benz of Rockville Centre4.8(1,351 reviews)      2,501 mi. from 97331      
+---------------------------------------------------------------------------------------------------------97------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $129,410  
+ Dealer:  Mercedes-Benz of Springfield5.0(96 reviews)      2,513 mi. from 97331      
+-----------------------------------------------------------------------------------------------------------99------
+ Make:  2023 Mercedes-Benz S-Class S 500 4MATIC  
+ Price:  $129,415  
+ Dealer:  Viti, Inc.4.9(736 reviews)      2,591 mi. from 97331      

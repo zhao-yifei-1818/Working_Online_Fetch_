@@ -5,7 +5,7 @@ import requests
 # Special thanks to Daisy who encourage me to put this onto github.  Daisy you are very kind and you are a very important person to me.
 
 # Main Fetch section
-html_text = requests.get('https://www.cars.com/shopping/results/?list_price_max=&makes[]=mercedes_benz&maximum_distance=all&models[]=mercedes_benz-s_class&page=1&page_size=100&stock_type=new&zip=97331').text
+html_text = requests.get('https://www.cars.com/shopping/results/?dealer_id=&exterior_color_slugs[]=black&interior_color_slugs[]=brown&interior_color_slugs[]=red&keyword=&list_price_max=&list_price_min=&makes[]=mercedes_benz&maximum_distance=all&mileage_max=&models[]=mercedes_benz-s_class&page_size=100&sort=best_match_desc&stock_type=new&year_max=&year_min=&zip=97331').text
 soup = BeautifulSoup(html_text, 'lxml')
     # Here you check html and find smallest big tags(div) that contains all your info
 all_vehicle_card = soup.find_all('div', class_ = 'vehicle-details')
@@ -46,6 +46,6 @@ if __name__ == "__main__":
 #I need a good way to input parameters with link and car model.
 # Optional: I may need to run this periodically
 
-# This program requires 2 libs: BeautufulSoup4 and requests, Please pip -install them before using.
+# This program requires 3 libs: BeautufulSoup4, lxml, and requests, Please pip -install them before using.
 # 
 # -William
